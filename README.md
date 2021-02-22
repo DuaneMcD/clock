@@ -12,4 +12,4 @@ My version of a JS digital clock.
     <li> Keeps user on schedule</li>
 </ul>
 
-### Duane McDonald
+#### Duane McDonald
