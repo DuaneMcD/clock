@@ -11,3 +11,5 @@ My version of a JS digital clock.
     <li> Timeless Styling</li>
     <li> Keeps user on schedule</li>
 </ul>
+
+### Duane McDonald
