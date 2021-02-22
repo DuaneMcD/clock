@@ -12,7 +12,7 @@ view <a href="https://duanemcd.github.io/clock/">digital clock</a>.
     <li> Keeps user on schedule</li>
 </ul>
 
-#### About Author
+### Author
 
 Duane McDonald | Software Developer <br />
 <a href="https://www.linkedin.com/in/duane-mcdonald-48a90136">linkedIn</a> <br />
