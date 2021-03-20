@@ -4,17 +4,17 @@ My version of a JS digital clock.
 
 view <a href="https://duanemcd.github.io/clock/">digital clock</a>.
 
-## Features
+## Summary
+Assembled CAB separation principals to build a JS project, build clean repos and deploy on github. It tells current day, date and time.
 
+![screenshot](screenshot.png)
+
+## Features
 <ul> 
     <li> Realtime display</li>
     <li> Timeless Styling</li>
     <li> Keeps user on schedule</li>
 </ul>
-
-## Summary
-
-Assembled CAB separation principals to build a JS project, build clean repos and deploy on github. It tells current day, date and time.
 
 ### Author
 
